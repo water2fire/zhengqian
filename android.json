@@ -3,8 +3,8 @@
   "updateUrl":"http://appdown.hezubar.com/zhengqian_download/",
   "branches":[
     {
-      "code":"1002",
-      "version":"1.0.2",
+      "code":"1003",
+      "version":"1.0.3",
       "status":"release"
     }
   ]
